@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Fatima Zafar 👋
+### Aspiring DevOps & DevSecOps Engineer
 
-<!--
-**fatimahzafar01-ui/fatimahzafar01-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student passionate about cloud infrastructure, CI/CD automation, and embedding security into the software development lifecycle.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **CI/CD:** GitHub Actions, Jenkins
+- **Containerization & Orchestration:** Docker, Kubernetes
+- **Infrastructure as Code (IaC):** Terraform, Ansible
+- **DevSecOps & Security:** SonarQube, Trivy, OWASP ZAP, GitLeaks
+- **Cloud & Systems:** AWS, Linux (Bash Scripting)
+
+---
+
+### 📌 Featured Projects
+- **CI/CD Security Pipeline:** Integrated automated SAST and container security scanning using GitHub Actions & Trivy.
+- **Automated Infrastructure Provisioning:** Deployed VPC and EC2 instances on AWS using Terraform.
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** www.linkedin.com/in/fatima-zafar-devops
+- **Email:** fatimahzafar01@gmail.com
