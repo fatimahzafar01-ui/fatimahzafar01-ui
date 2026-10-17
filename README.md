@@ -1,4 +1,6 @@
-Fatima Zafar 👋
+Fatima Zafar 
+
+
 Aspiring DevOps & DevSecOps Engineer
 
 I am a Computer Science student passionate about cloud infrastructure, CI/CD automation, and embedding security into the software development lifecycle.
@@ -10,7 +12,7 @@ I am a Computer Science student passionate about cloud infrastructure, CI/CD aut
 - **Containerization & Orchestration:** Docker, Kubernetes
 - **Infrastructure as Code (IaC):** Terraform, Ansible
 - **DevSecOps & Security:** SonarQube, Trivy, OWASP ZAP, GitLeaks
-- **Cloud & Systems:** AWS, Linux (Bash Scripting)
+- **Cloud & Systems:** AWS,Azure,Linux (Bash Scripting)
 
 ---
 
